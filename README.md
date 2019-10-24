@@ -1,4 +1,6 @@
-# freemall
+# 慕课网 基于Vue2.6开发商城核心页面 课程参考源码
+
+课程链接：https://www.imooc.com/learn/1187
 
 ## Project setup
 ```
